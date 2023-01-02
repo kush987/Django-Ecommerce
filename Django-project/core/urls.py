@@ -13,7 +13,7 @@ from .views import (
     RequestRefundView,
     CategoryView
 )
-
+# app urls
 app_name = 'core'
 
 urlpatterns = [

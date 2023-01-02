@@ -63,3 +63,6 @@ http://djangoecommerce.pythonanywhere.com
 
 https://colorlib.com/etc/fashe/index.html
 
+# Remove requirements file libraries versions before run requirement file
+requirements.txt
+
